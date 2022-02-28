@@ -1,0 +1,104 @@
+id: e8f602ef122340ffb68146a7f1addb67
+annotation_type: Segment
+revision: '00001'
+annotations:
+  b14e252aabb748dc936439bfff7194b2:
+    span:
+      start: 0
+      end: 48
+    metadata: {}
+  1fa64916e86041eda7cb8b2837f387a1:
+    span:
+      start: 50
+      end: 162
+    metadata: {}
+  ae93fbda30ca4ce39ed8c6b223d2b1e0:
+    span:
+      start: 164
+      end: 277
+    metadata: {}
+  132cf89c194343eab59d5b3c44abb29f:
+    span:
+      start: 279
+      end: 390
+    metadata: {}
+  ef6a2408369949bfa9186119aaf25d8e:
+    span:
+      start: 392
+      end: 510
+    metadata: {}
+  3c4d143345de47a6a07660431313e162:
+    span:
+      start: 512
+      end: 622
+    metadata: {}
+  135c4a45f0804388992a45051d34ddb2:
+    span:
+      start: 624
+      end: 727
+    metadata: {}
+  d5b6db4f4945493c8a05e36c44962906:
+    span:
+      start: 729
+      end: 842
+    metadata: {}
+  8fbc9a2cf5e149469a6be7e86374b075:
+    span:
+      start: 844
+      end: 957
+    metadata: {}
+  35522c10a7684ae9801145b4764099e4:
+    span:
+      start: 959
+      end: 1074
+    metadata: {}
+  c897166d5bd9471683fdd87f8032e350:
+    span:
+      start: 1076
+      end: 1197
+    metadata: {}
+  a2aa69b2435f4074b77ea8549693e628:
+    span:
+      start: 1199
+      end: 1311
+    metadata: {}
+  d0dfdbacd9554c0586028d3348c54eba:
+    span:
+      start: 1313
+      end: 1431
+    metadata: {}
+  b84a1aca1a8140629ee196c316fcbee8:
+    span:
+      start: 1433
+      end: 1545
+    metadata: {}
+  caa8d851cd7f43669fe9234ea6e46831:
+    span:
+      start: 1547
+      end: 1657
+    metadata: {}
+  bfae092ede16462b8bb9b151952a27a0:
+    span:
+      start: 1659
+      end: 1778
+    metadata: {}
+  29baf5c292604228aa832730f64c0571:
+    span:
+      start: 1780
+      end: 1901
+    metadata: {}
+  c5bac053352649ed96ee5ec44103d63e:
+    span:
+      start: 1903
+      end: 1921
+    metadata: {}
+  704dfdc57d3840ec802ed14822fd90cc:
+    span:
+      start: 1923
+      end: 1996
+    metadata: {}
+  4303d74001cf434cae1af86017d778d8:
+    span:
+      start: 1998
+      end: 2036
+    metadata: {}
